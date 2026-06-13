@@ -1,2 +1,15 @@
-# currency-converter
-A real-time currency converter web app built with HTML , CSS and JavaScript using API integration.
+
+# Currency Converter
+
+A real-time currency converter web app.
+
+## Features
+- Live currency conversion
+- Real-time exchange rates using API
+- Clean and simple user interface
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- API Integration
